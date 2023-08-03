@@ -21,3 +21,5 @@ elif(op_name=='nt'):
     print(temp)
 else:
     print("os not recognised")
+
+print("hello code updated")

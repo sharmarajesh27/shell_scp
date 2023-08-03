@@ -1,0 +1,10 @@
+total 32K
+-rw-rw-r-- 1 rajesh rajesh   0 Aug  3 17:22 out.txt
+-rw-rw-r-- 1 rajesh rajesh 231 Aug  3 17:22 os_system_test.py
+-rw-rw-r-- 1 rajesh rajesh 336 Aug  3 16:59 sub_os.py
+-rwxrwxr-x 1 rajesh rajesh  89 Aug  3 16:59 test.sh
+-rw-rw-r-- 1 rajesh rajesh 350 Aug  3 16:46 create_json.py
+-rw-rw-r-- 1 rajesh rajesh 351 Aug  2 21:49 json1.txt
+-rwxrwxr-x 1 rajesh rajesh 106 Aug  2 17:35 test.py
+-rw-rw-r-- 1 rajesh rajesh  46 Aug  2 17:33 emp.csv
+-rw-rw-r-- 1 rajesh rajesh  38 Aug  2 17:19 1.py

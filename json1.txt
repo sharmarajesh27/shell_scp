@@ -1,0 +1,22 @@
+[
+    {
+        "emp": 1,
+        "name": "rajesh",
+        "age": 32,
+        "skills": [
+            "Python",
+            "PowerBI"
+        ],
+        "city": "Mohali"
+    },
+    {
+        "emp": 2,
+        "name": "Munish",
+        "age": 30,
+        "skills": [
+            "Linux",
+            "Devops"
+        ],
+        "city": "Delhi"
+    }
+]

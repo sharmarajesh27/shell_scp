@@ -3,9 +3,9 @@ import os
 
 subprocess.Popen('echo "hi world"',shell=True)
 
-#subprocess.run(["sh","pwd"],shell=True)
+subprocess.run(["sh","pwd"],shell=True)
 
-os.system('pwd')
+'''os.system('pwd')
 #print("------------------------------------")
 
 os.system('echo "======================================="')
@@ -15,4 +15,4 @@ os.system('echo "======================================="')
 
 #subprocess.call(['sh','./test.sh'])
 
-os.system("sh test.sh")
+os.system("sh test.sh")'''

@@ -7,7 +7,7 @@ import subprocess as sp
 #sp.call(['pwd'],shell=True)
 
 
-result=sp.run(['pwd'],shell=True,capture_output=True,text=True)
+result=sp.run(['ls -al'],shell=True,capture_output=True,text=True)
 
 print("================")
 
